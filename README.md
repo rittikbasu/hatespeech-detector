@@ -3,7 +3,7 @@
 Repository for Rittik Basu, Rehmat Irphany, Sanah Saleem, and Shaurya Sood.
 For more information on the project [click here](https://docs.google.com/document/d/1DQqylMDdDANnePqJwtOnycg6JS85KcJbqYFKYoQHI2Y/edit?usp=sharing) to read the report
 
-#
+### About the project
 
 A key challenge for automatic hate-speech detection on social media is the separation of hate speech from other instances of offensive language. Lexical detection methods tend to have low precision because they classify all messages containing particular terms as hate speech and previous work using supervised learning has failed to distinguish between the two categories. Therefore in order to create a hate-speech-detecting algorithm, we used Python-based NLP machine learning techniques.
 
