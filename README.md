@@ -1,7 +1,7 @@
 # Automated Detection of Hate Speech
 
 Repository for Rittik Basu, Rehmat Irphany, Sanah Saleem, and Shaurya Sood.
-For more information on the project [click here](https://docs.google.com/document/d/1DQqylMDdDANnePqJwtOnycg6JS85KcJbqYFKYoQHI2Y/edit?usp=sharing) to read the report
+For more information on the project read the report [here](https://docs.google.com/document/d/1DQqylMDdDANnePqJwtOnycg6JS85KcJbqYFKYoQHI2Y/edit?usp=sharing)
 
 ### About the project
 
